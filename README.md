@@ -1,10 +1,10 @@
 # KotOR-Modding-Guide
+This guide is a work in progress, and is part of the Northern Lights project (a level editor and engine reimplementation project for KotOR/TSL).
 
-## Introduction
-This guide consists of three components:
- - An extensive wiki explaining how to mod 
- - 
- - 
+The guide consists of three components:
+ - An extensive wiki explaining how to mod KotOR/TSL, from simple to complex mods
+ - Full examples of many different types of mods, complete with documentation describing how the mods work
+ - Templates for many common modding tasks, such as adding new items/characters/..., creating new modules, total conversions, etc.
  
 ## Sample Mods
 ### Easier mods
